@@ -1,0 +1,8 @@
+Otetaan esimerkiksi seuraava tiedosto: 
+
+1,2,elain
+2,1,3,majava
+3,2,4,pato
+4,3,vesivoimala
+
+eka sana on elain, josta ol linkki sanaan majava josta on linkki sanoihin elain ja pato, padosta on linkki sanoihin majava ja vesivoimala.
